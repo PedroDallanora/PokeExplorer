@@ -207,3 +207,9 @@ Extensão de `String` que gera um hash SHA256. Usado para criar identificadores 
 Extensão de `String` com métodos de validação:
 - `isEmailValido()`: valida se o e-mail segue o formato correto
 - `isSenhaValida()`: verifica se a senha tem pelo menos 8 caracteres, número, símbolo e letra maiúscula/minúscula
+
+---
+
+## Youtube Video
+
+https://youtu.be/BV4kb_ua0sw

@@ -86,15 +86,6 @@ enum AppFonts {
 - Responsividade total com uso de LazyVGrid, GeometryReader, e `.adaptive(minimum:)`.
 - Validações em tempo real de email e senha durante o cadastro com regex.
 
-## Bibliotecas de Terceiros
-
-O projeto não utiliza bibliotecas de terceiros. Toda implementação foi feita com ferramentas nativas da Apple, como:
-
-- SwiftUI para UI e animações
-- Core Data para persistência
-- UserDefaults para controle de sessão
-- CryptoKit para hash de senha
-
 ## Checklist de Funcionalidades
 
 - [x] Lista em grade de Pokémon com LazyVGrid

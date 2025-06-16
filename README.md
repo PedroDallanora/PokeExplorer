@@ -81,10 +81,7 @@ enum AppFonts {
 
 ## Implementação de Criatividade
 
-- Animações visuais ao favoritar Pokémon, transições suaves entre telas com `.transition()` e `.withAnimation`.
-- Scroll infinito com paginação para carregar Pokémon em lotes de 10.
-- Responsividade total com uso de LazyVGrid, GeometryReader, e `.adaptive(minimum:)`.
-- Validações em tempo real de email e senha durante o cadastro com regex.
+- Pagianação que atua de 10 em 10 até gerar os 150 pokemóns da primeira geração
 
 ## Checklist de Funcionalidades
 
@@ -97,10 +94,3 @@ enum AppFonts {
 - [x] Layout reativo para iPhone e iPad
 - [x] Animações em interações e carregamentos
 - [x] Scroll infinito com paginação
-
-## Execução
-
-1. Clone o projeto.
-2. Abra com Xcode 15 ou superior.
-3. Rode o projeto em um simulador.
-4. Crie uma conta e explore os Pokémon!

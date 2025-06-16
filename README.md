@@ -97,7 +97,7 @@ enum AppFonts {
 
 ## Model
 
-### pokemonModel.swift
+### Pokemon.swift (pokemonModel)
 Define a estrutura de dados utilizada para representar um Pokémon, conforme o padrão da PokéAPI. Contém os seguintes atributos:
 - `id`, `name`, `height`, `weight`
 - `types`: tipos do Pokémon

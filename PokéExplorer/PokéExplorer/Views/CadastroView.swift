@@ -50,6 +50,8 @@ struct CadastroView: View {
                     Text(erro)
                         .foregroundColor(.red)
                         .font(.caption)
+                        .multilineTextAlignment(.center)
+                        .padding(.horizontal)
                 }
 
                 Button("Cadastrar") {
